@@ -1,4 +1,4 @@
-# Samantha — ZenonAI
+# [Samantha](https://www.zenonai.net)
 
 ```
 Mic ──► [Rust: cpal + WebRTC VAD]
@@ -46,7 +46,7 @@ cp agent/.env.example agent/.env
 |---|---|
 | Voice capture | Rust · cpal · WebRTC VAD |
 | Speech-to-text | faster-whisper (tiny → large-v3) |
-| LLM | Ollama · llama3.2:3b |
+| LLM | Ollama · deepseek · llama3 · mistral  |
 | Browser | Playwright · Chromium |
 | Screen vision | MSS · OpenCV · YOLOv8 · PaddleOCR |
 | Text-to-speech | edge-tts (neural, 300+ voices) |
@@ -65,5 +65,8 @@ TTS_EDGE_VOICE=aria
 HF_TOKEN=hf_your_token_here
 ```
 
-~SAMANTHA
-samantha is an open source voice interactive AI agent lives on your machine, runs offline built on top of LLM to simplify human interactions with computers and help agents gain more control on your desktop for instance; environment perception via webcam, app interaction, or browser navigation.  Sounds lunatic! yes but in fact it is possible!
+> <b>*Samantha*</b> is an open source voice interactive AI agent lives on your machine, runs offline built on top of LLM to *simplify Human interaction with AI* and help agents gain more control over your desktop. 
+-[x] Environment perception via webcam
+-[x] App interaction
+-[x] Browser navigation
+
