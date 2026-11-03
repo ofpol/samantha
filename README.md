@@ -65,8 +65,8 @@ TTS_EDGE_VOICE=aria
 HF_TOKEN=hf_your_token_here
 ```
 
-> <b>*Samantha*</b> is an open source voice interactive AI agent lives on your machine, runs offline built on top of LLM to *simplify Human interaction with AI* and help agents gain more control over your desktop. 
--[x] Environment perception via webcam
--[x] App interaction
+> <b>*Samantha*</b> is an open source voice interactive AI agent lives on your machine, runs offline built on top of LLM to *simplify Human interaction with AI* and help agents gain more control over your desktop.<br>
+-[x] Environment perception via webcam<br>
+-[x] App interaction<br>
 -[x] Browser navigation
 
